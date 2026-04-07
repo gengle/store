@@ -66,7 +66,7 @@
     "typescript51": "npm:typescript@5.1",
     "typescript52": "npm:typescript@5.2",
     "typescript53": "npm:typescript@5.3",
-    "vite": "^6.3.6",
+    "vite": "^6.4.2",
     "vitest": "^3.2.4",
     "vue": "^3.5.22"
   },
